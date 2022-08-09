@@ -1,0 +1,38 @@
+[
+    {
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "Project-2"
+	},
+
+    {
+		"ParameterKey": "MyIP",
+		"ParameterValue": "105.112.168.120"
+	},
+
+    {
+		"ParameterKey": "JumpboxKey",
+		"ParameterValue": "jumpbox"
+	},
+
+    {
+		"ParameterKey": "JumpboxImageID",
+		"ParameterValue": "ami-0022f774911c1d690"
+	},
+
+    {
+		"ParameterKey": "JumpboxInstance",
+		"ParameterValue": "t2.micro"
+	},
+
+    {
+		"ParameterKey": "WebAppAMI",
+		"ParameterValue": "ami-005de95e8ff495156"
+	},
+
+    {
+		"ParameterKey": "WebAppInstance",
+		"ParameterValue": "t3.medium"
+	}
+
+
+]
